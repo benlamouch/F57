@@ -6,7 +6,7 @@ Just install guzzle and this package with composer.
 
 ```bash
 php composer require guzzlehttp/guzzle:~6.0
-php composer require F57/EasyPHTTP
+php composer require f57/easyphttp
 ```
 
 And that's all !
