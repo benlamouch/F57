@@ -2,7 +2,7 @@
     "name": "F57/easyphttp",
     "description": "Make guzzle easier",
     "keywords": ["guzzle", "simplifier"],
-    "homepage": "http://parsedown.org",
+    "homepage": "http://f57.fr",
     "type": "library",
     "license": "MIT",
     "authors": [
