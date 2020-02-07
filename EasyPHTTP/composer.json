@@ -1,0 +1,19 @@
+{
+    "name": "F57/EasyPHTTP",
+    "description": "Make guzzle easier",
+    "keywords": ["guzzle", "simplifier"],
+    "homepage": "http://parsedown.org",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lamonica Benoit",
+            "email": "benoit@f57.fr",
+            "homepage": "http://f57.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "guzzle": "*"
+    }
+}
