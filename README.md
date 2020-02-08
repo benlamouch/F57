@@ -2,10 +2,9 @@
 Easy to use, easy to make request.
 
 ### How does this works ?
-Just install guzzle and this package with composer.
+Just install this package with composer.
 
 ```bash
-php composer require guzzlehttp/guzzle:~6.0
 php composer require f57/easyphttp
 ```
 
