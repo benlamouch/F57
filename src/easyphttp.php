@@ -55,7 +55,7 @@ class EasyPHTTP {
 
     //Getting URL of the client
     public static function url($url) {
-        $class = new ApiRequest;
+        $class = new EasyPHTTP;
 
         $class->url = $url;
         return $class;
