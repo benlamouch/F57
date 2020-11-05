@@ -21,5 +21,6 @@
         "php": ">=5.3.0",
         "guzzlehttp/guzzle": "*",
         "guzzlehttp/psr7": "*"
-    }
+    },
+    "minimum-stability": "dev"
 }
